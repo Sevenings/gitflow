@@ -1,8 +1,8 @@
 def hello_world():
     print("Hello World")
 
-hello_world()
 def goodbye_world():
     print("Goodbye World")
 
+hello_world()
 goodbye_world()
