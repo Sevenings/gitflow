@@ -1,2 +1,4 @@
 print("Hello world")
 
+def hello_world():
+    print("Hello Wor")
